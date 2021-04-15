@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>Blog with photos</title>
+<body>
+
+<div class="image-section">
+    <div class="section-style">
+        <img src="https://projectsassets.s3.us-east-2.amazonaws.com/Nature_Tmage_3.png" alt="" />
+        <p>By discovering nature, you discover yourself. lagacé</p>
+</div>
+
+<div class="section-style">
+    <img src="https://projectsassets.s3.us-east-2.amazonaws.com/Nature_Tmage_2.png" alt="" />
+    <p>Adopt the pace of nature. Her secret is patience. Ralph Waldo Emerson</p> 
+</div>
+</div>
+ <h4 id= 'date'></h4>
+    
